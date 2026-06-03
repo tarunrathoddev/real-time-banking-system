@@ -1,48 +1,24 @@
-Real-Time Banking System
-
-
+# Real-Time Banking System
 
 A production-grade Banking Management System built using Java, Spring Boot, MySQL, Docker, GitHub Actions, and AWS.
 
+## Project Goals
 
+* User Management
+* Account Management
+* Fund Transfer
+* Transaction History
+* JWT Security
+* Docker Deployment
+* CI/CD Pipeline
+* AWS Deployment
 
-Project Goals
+## Tech Stack
 
-
-
-\- User Management
-
-\- Account Management
-
-\- Fund Transfer
-
-\- Transaction History
-
-\- JWT Security
-
-\- Docker Deployment
-
-\- CI/CD Pipeline
-
-\- AWS Deployment
-
-
-
-Tech Stack
-
-
-
-\- Java
-
-\- Spring Boot
-
-\- MySQL
-
-\- Maven
-
-\- Git
-
-\- Docker
-
-\- AWS
-
+* Java
+* Spring Boot
+* MySQL
+* Maven
+* Git
+* Docker
+* AWS
